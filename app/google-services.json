@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598410934420",
+    "project_id": "authentication-firebase-fa9f5",
+    "storage_bucket": "authentication-firebase-fa9f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598410934420:android:52364c3bbb9b6e69a7dc81",
+        "android_client_info": {
+          "package_name": "com.example.authentication_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDVZA6hrnBj-h1z20zdb1tggoXtUif7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
